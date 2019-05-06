@@ -1,0 +1,5 @@
+six>=1.11.0
+numpy>=1.13.3
+imageio>=2.5.0
+matplotlib>=3.0.3
+tensorflow>=1.13.1
